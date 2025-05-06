@@ -29,9 +29,15 @@
     LC_TIME = "en_US.UTF-8";
   };
 
+  hardware.bluetooth = {
+    enable = true;
+    powerOnBoot = true;
+
+  };
+
   
   # Open ports in the firewall.
-  networking.firewall.allowedTCPPorts = [ 30000 ];
+  # networking.firewall.allowedTCPPorts = [ 30000 ];
   # networking.firewall.allowedUDPPorts = [ ... ];
   # Or disable the firewall altogether.
   # networking.firewall.enable = false;
