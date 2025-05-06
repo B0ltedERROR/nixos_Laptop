@@ -12,6 +12,7 @@ let
     rebuild = "sudo nixos-rebuild switch";
     fullRebuild = "sudo nixos-rebuild switch && home-manager switch -b backup";
     homeRebuild = "home-manager switch -b backup";
+    sdupe = "sudo -E -s"
 };
 in
 {
