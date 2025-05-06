@@ -1,5 +1,5 @@
 # NixOS manual (accessible by running ‘nixos-help’).
-
+#
 { config, pkgs, ... }:
 let
   home-manager = builtins.fetchTarball "https://github.com/nix-community/home-manager/archive/release-24.11.tar.gz";
