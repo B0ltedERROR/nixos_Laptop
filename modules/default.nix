@@ -5,13 +5,13 @@
 	imports = [
 		./boot.nix
 		./fonts.nix
-		# ./desktop.nix
+		./desktop.nix
 		# ./hyprland.nix
-		./awesome.nix
+		# ./awesome.nix
 		# ./misc.nix
 		./networking.nix
 		./packages.nix
-		# ./programs.nix
+		./programs.nix
 		# ./services.nix
 		# ./theme.nix
 		./users.nix

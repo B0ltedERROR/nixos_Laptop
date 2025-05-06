@@ -22,5 +22,13 @@
         };
     };
 
+  environment.systemPackages = with pkgs; [
+	blueman
+	picom
+	nitrogen
+	gnome.nautilus
+	dmenu
+  ];
+
 }
 

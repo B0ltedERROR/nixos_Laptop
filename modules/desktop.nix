@@ -2,20 +2,21 @@
 
 {
 
-  # Configure keymap in X11
-  services.xserver.xkb = {
-    layout = "us";
-    variant = "";
-  };
-
   # Cinnamon desktop
-  services.xserver = {
-    enable = true;
-    libinput.enable = true;
-    displayManager.lightdm.enable = true;
-    desktopManager = {
-      cinnamon.enable = true;
+  services = {
+    xserver = {
+      # Configure keymap in X11
+      xkb = {
+        layout = "us";
+        variant = "";
+      };
+      enable = true;
+      displayManager.lightdm.enable = true;
+      desktopManager = {
+        cinnamon.enable = true;
+      };
     };
+    libinput.enable = true;
     displayManager.defaultSession = "cinnamon";
   };
 
