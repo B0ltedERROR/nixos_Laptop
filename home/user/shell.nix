@@ -12,7 +12,7 @@ let
     rebuild = "sudo nixos-rebuild switch";
     fullRebuild = "sudo nixos-rebuild switch && home-manager switch -b backup";
     homeRebuild = "home-manager switch -b backup";
-    sdupe = "sudo -E -s"
+    sdupe = "sudo -E -s";
 };
 in
 {
@@ -22,10 +22,10 @@ in
 		autosuggestion.enable = true;
 		syntaxHighlighting.enable = true;
 		initExtra = '' 
-            source ~/.p10k.zsh && 
-            eval "$(zoxide init --cmd cd zsh)" && 
+      source ~/.p10k.zsh && 
+      eval "$(zoxide init --cmd cd zsh)" && 
 	    printf '\n%.0s' {1..$LINES}
-        ''; 
+      ''; 
 		shellAliases = myAliases;
 		oh-my-zsh = {
 			enable = true;

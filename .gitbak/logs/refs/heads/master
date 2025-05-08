@@ -1,0 +1,15 @@
+0000000000000000000000000000000000000000 dce13115cbdf12ecae59251ba55d9a2c54ba263c b0lt <jdb0lt@outlook.com> 1741976235 -0400	commit (initial): init
+dce13115cbdf12ecae59251ba55d9a2c54ba263c 331876d9dbad6da89b17f650aeb06c168d4492ee b0lt <jdb0lt@outlook.com> 1742070848 -0400	merge unstable: Fast-forward
+331876d9dbad6da89b17f650aeb06c168d4492ee 8aaa5501aee9c5e93fa79e6440ef02f1abcbf9a0 b0lt <jdb0lt@outlook.com> 1746299557 -0400	commit: Squash merge unstable into master
+8aaa5501aee9c5e93fa79e6440ef02f1abcbf9a0 af63a37d7a1e38eb6ec0cd9aed635d8c0e857fc4 b0lt <jdb0lt@outlook.com> 1746455448 -0400	commit: merging to master
+af63a37d7a1e38eb6ec0cd9aed635d8c0e857fc4 dd9ef5ad77cd35a9ab2a1ef006213714beb17760 b0lt <jdb0lt@outlook.com> 1746455492 -0400	commit: Squash merge unstable into master
+dd9ef5ad77cd35a9ab2a1ef006213714beb17760 f01c5f6ce0a963bc1cee72ac7338b3bde4eb12d2 b0lt <jdb0lt@outlook.com> 1746542366 -0400	commit (merge): Merge branch 'unstable'
+f01c5f6ce0a963bc1cee72ac7338b3bde4eb12d2 5e4ec8f8ad97a29920625d2729bd8435a1e63aaf b0lt <jdb0lt@outlook.com> 1746542446 -0400	commit: fixing .swp files
+5e4ec8f8ad97a29920625d2729bd8435a1e63aaf 5b915426715a3969678f6c296b4c0a1162d2f325 b0lt <jdb0lt@outlook.com> 1746543893 -0400	merge unstable: Merge made by the 'ort' strategy.
+5b915426715a3969678f6c296b4c0a1162d2f325 e463008d5ac7955ba716e2bd65fbbf821f83cab4 b0lt <jdb0lt@outlook.com> 1746544384 -0400	merge unstable: Merge made by the 'ort' strategy.
+e463008d5ac7955ba716e2bd65fbbf821f83cab4 7dbcace18ba01051fd80a80487b53af39864dee4 b0lt <jdb0lt@outlook.com> 1746544589 -0400	commit: git wierd
+7dbcace18ba01051fd80a80487b53af39864dee4 9d625b26e3ed4812aab37860adc2c6b8df962d2a b0lt <jdb0lt@outlook.com> 1746553021 -0400	commit: fixed a inconvience of sudo su
+9d625b26e3ed4812aab37860adc2c6b8df962d2a 8dd1c9f25f4752595bf78ce7370bacbb6bfdf805 B0ltedERROR <119495799+B0ltedERROR@users.noreply.github.com> 1746553892 -0400	commit: added sdupe
+8dd1c9f25f4752595bf78ce7370bacbb6bfdf805 7203f21c77e5de46595275a61d52db37175d3733 B0ltedERROR <119495799+B0ltedERROR@users.noreply.github.com> 1746564051 -0400	commit: Squash merge unstable into master
+7203f21c77e5de46595275a61d52db37175d3733 1b2262071cdccac48dfa7d2f8ad8bca7d270ee3d B0ltedERROR <119495799+B0ltedERROR@users.noreply.github.com> 1746725203 -0400	commit: started process of secure boot. Changed tmux config
+1b2262071cdccac48dfa7d2f8ad8bca7d270ee3d 07eb0a0534ae700fc11ea9697f6bc541fb229bac B0ltedERROR <119495799+B0ltedERROR@users.noreply.github.com> 1746725345 -0400	commit (merge): Merge branch 'unstable'

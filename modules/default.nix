@@ -12,7 +12,7 @@
 		./networking.nix
 		./packages.nix
 		./programs.nix
-		# ./services.nix
+		./services.nix
 		# ./theme.nix
 		./users.nix
 	];

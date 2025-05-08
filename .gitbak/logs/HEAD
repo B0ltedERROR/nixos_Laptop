@@ -1,0 +1,90 @@
+0000000000000000000000000000000000000000 dce13115cbdf12ecae59251ba55d9a2c54ba263c b0lt <jdb0lt@outlook.com> 1741976235 -0400	commit (initial): init
+dce13115cbdf12ecae59251ba55d9a2c54ba263c dce13115cbdf12ecae59251ba55d9a2c54ba263c b0lt <jdb0lt@outlook.com> 1741976300 -0400	checkout: moving from master to unstable
+dce13115cbdf12ecae59251ba55d9a2c54ba263c e40117b863d0defbda2af4205d69e530c4be0b31 b0lt <jdb0lt@outlook.com> 1741978593 -0400	commit: split up into files, added packages
+e40117b863d0defbda2af4205d69e530c4be0b31 7629e985c141440fa0fc07b6928ba31ce8cb8e1c b0lt <jdb0lt@outlook.com> 1742061450 -0400	commit: fixed defualt file
+7629e985c141440fa0fc07b6928ba31ce8cb8e1c 331876d9dbad6da89b17f650aeb06c168d4492ee b0lt <jdb0lt@outlook.com> 1742070833 -0400	commit: stable cinnamon
+331876d9dbad6da89b17f650aeb06c168d4492ee dce13115cbdf12ecae59251ba55d9a2c54ba263c b0lt <jdb0lt@outlook.com> 1742070842 -0400	checkout: moving from unstable to master
+dce13115cbdf12ecae59251ba55d9a2c54ba263c 331876d9dbad6da89b17f650aeb06c168d4492ee b0lt <jdb0lt@outlook.com> 1742070848 -0400	merge unstable: Fast-forward
+331876d9dbad6da89b17f650aeb06c168d4492ee dce13115cbdf12ecae59251ba55d9a2c54ba263c b0lt <jdb0lt@outlook.com> 1742070923 -0400	checkout: moving from master to baseline_with_vim
+dce13115cbdf12ecae59251ba55d9a2c54ba263c 331876d9dbad6da89b17f650aeb06c168d4492ee b0lt <jdb0lt@outlook.com> 1742070931 -0400	checkout: moving from baseline_with_vim to unstable
+331876d9dbad6da89b17f650aeb06c168d4492ee c016c08a19c314204a360401f73aaebb9e659ecd b0lt <jdb0lt@outlook.com> 1742072216 -0400	commit: added awesomewm
+c016c08a19c314204a360401f73aaebb9e659ecd 296dcd75df02c6cd68bc51b6c3bc08f1fd020faa b0lt <jdb0lt@outlook.com> 1743089255 -0400	commit: added awesomewm
+296dcd75df02c6cd68bc51b6c3bc08f1fd020faa 6472206b9b7847742be63f6586bdb5e20940b360 b0lt <jdb0lt@outlook.com> 1743291322 -0400	commit: added packages for awesome wm and enabled bluetooth
+6472206b9b7847742be63f6586bdb5e20940b360 3f753b166b3edd748c34477c71fe7020b0aa8d77 b0lt <jdb0lt@outlook.com> 1743291436 -0400	commit: removed open port 30000
+3f753b166b3edd748c34477c71fe7020b0aa8d77 9897a6699eaad7ce7400f7e27bede6797ac75fd9 b0lt <jdb0lt@outlook.com> 1743301273 -0400	commit: got applications started and working for awesome wm
+9897a6699eaad7ce7400f7e27bede6797ac75fd9 331876d9dbad6da89b17f650aeb06c168d4492ee b0lt <jdb0lt@outlook.com> 1743301280 -0400	checkout: moving from unstable to master
+331876d9dbad6da89b17f650aeb06c168d4492ee 9897a6699eaad7ce7400f7e27bede6797ac75fd9 b0lt <jdb0lt@outlook.com> 1743301370 -0400	checkout: moving from master to unstable
+9897a6699eaad7ce7400f7e27bede6797ac75fd9 604ae70d139fa0b69d795e51d68aeac47f088ded b0lt <jdb0lt@outlook.com> 1746216037 -0400	commit: starting to add home
+604ae70d139fa0b69d795e51d68aeac47f088ded 604ae70d139fa0b69d795e51d68aeac47f088ded b0lt <jdb0lt@outlook.com> 1746219419 -0400	reset: moving to HEAD
+604ae70d139fa0b69d795e51d68aeac47f088ded 67b19b3627c24d26e4bad57e4575fae4090e4898 b0lt <jdb0lt@outlook.com> 1746219438 -0400	commit: filled dots, added user files
+67b19b3627c24d26e4bad57e4575fae4090e4898 7832ecffb7cd27ad7840cbba073412c36d826d52 b0lt <jdb0lt@outlook.com> 1746219506 -0400	commit: fixed configuration.nix
+7832ecffb7cd27ad7840cbba073412c36d826d52 d412ccbe408f9c86b734c614a706abbe0ef33aa9 b0lt <jdb0lt@outlook.com> 1746299133 -0400	commit: got home working.
+d412ccbe408f9c86b734c614a706abbe0ef33aa9 d412ccbe408f9c86b734c614a706abbe0ef33aa9 b0lt <jdb0lt@outlook.com> 1746299446 -0400	reset: moving to HEAD
+d412ccbe408f9c86b734c614a706abbe0ef33aa9 b8479ce165316e9c5dd6dc66f497cc3a38f0cc5d b0lt <jdb0lt@outlook.com> 1746299530 -0400	commit: final checks done
+b8479ce165316e9c5dd6dc66f497cc3a38f0cc5d 331876d9dbad6da89b17f650aeb06c168d4492ee b0lt <jdb0lt@outlook.com> 1746299543 -0400	checkout: moving from unstable to master
+331876d9dbad6da89b17f650aeb06c168d4492ee 8aaa5501aee9c5e93fa79e6440ef02f1abcbf9a0 b0lt <jdb0lt@outlook.com> 1746299557 -0400	commit: Squash merge unstable into master
+8aaa5501aee9c5e93fa79e6440ef02f1abcbf9a0 af63a37d7a1e38eb6ec0cd9aed635d8c0e857fc4 b0lt <jdb0lt@outlook.com> 1746455448 -0400	commit: merging to master
+af63a37d7a1e38eb6ec0cd9aed635d8c0e857fc4 b8479ce165316e9c5dd6dc66f497cc3a38f0cc5d b0lt <jdb0lt@outlook.com> 1746455467 -0400	checkout: moving from master to unstable
+b8479ce165316e9c5dd6dc66f497cc3a38f0cc5d af63a37d7a1e38eb6ec0cd9aed635d8c0e857fc4 b0lt <jdb0lt@outlook.com> 1746455475 -0400	checkout: moving from unstable to master
+af63a37d7a1e38eb6ec0cd9aed635d8c0e857fc4 dd9ef5ad77cd35a9ab2a1ef006213714beb17760 b0lt <jdb0lt@outlook.com> 1746455492 -0400	commit: Squash merge unstable into master
+dd9ef5ad77cd35a9ab2a1ef006213714beb17760 b8479ce165316e9c5dd6dc66f497cc3a38f0cc5d b0lt <jdb0lt@outlook.com> 1746455507 -0400	checkout: moving from master to unstable
+b8479ce165316e9c5dd6dc66f497cc3a38f0cc5d 78ef68be18eb50d4f5dd7f78f2c2ba38ee704797 b0lt <jdb0lt@outlook.com> 1746541392 -0400	commit: added zsh, oh-my-zsh, and p10k
+78ef68be18eb50d4f5dd7f78f2c2ba38ee704797 dd9ef5ad77cd35a9ab2a1ef006213714beb17760 b0lt <jdb0lt@outlook.com> 1746541400 -0400	checkout: moving from unstable to master
+dd9ef5ad77cd35a9ab2a1ef006213714beb17760 dd9ef5ad77cd35a9ab2a1ef006213714beb17760 b0lt <jdb0lt@outlook.com> 1746541501 -0400	reset: moving to HEAD
+dd9ef5ad77cd35a9ab2a1ef006213714beb17760 78ef68be18eb50d4f5dd7f78f2c2ba38ee704797 b0lt <jdb0lt@outlook.com> 1746541506 -0400	checkout: moving from master to unstable
+78ef68be18eb50d4f5dd7f78f2c2ba38ee704797 f507b090a441d87fe836ff0d8045af73f68b94df b0lt <jdb0lt@outlook.com> 1746542006 -0400	commit: fixed zsh configs
+f507b090a441d87fe836ff0d8045af73f68b94df dd9ef5ad77cd35a9ab2a1ef006213714beb17760 b0lt <jdb0lt@outlook.com> 1746542012 -0400	checkout: moving from unstable to master
+dd9ef5ad77cd35a9ab2a1ef006213714beb17760 dd9ef5ad77cd35a9ab2a1ef006213714beb17760 b0lt <jdb0lt@outlook.com> 1746542042 -0400	reset: moving to HEAD
+dd9ef5ad77cd35a9ab2a1ef006213714beb17760 dd9ef5ad77cd35a9ab2a1ef006213714beb17760 b0lt <jdb0lt@outlook.com> 1746542105 -0400	reset: moving to HEAD
+dd9ef5ad77cd35a9ab2a1ef006213714beb17760 f507b090a441d87fe836ff0d8045af73f68b94df b0lt <jdb0lt@outlook.com> 1746542120 -0400	checkout: moving from master to unstable
+f507b090a441d87fe836ff0d8045af73f68b94df dd9ef5ad77cd35a9ab2a1ef006213714beb17760 b0lt <jdb0lt@outlook.com> 1746542144 -0400	checkout: moving from unstable to master
+dd9ef5ad77cd35a9ab2a1ef006213714beb17760 f01c5f6ce0a963bc1cee72ac7338b3bde4eb12d2 b0lt <jdb0lt@outlook.com> 1746542366 -0400	commit (merge): Merge branch 'unstable'
+f01c5f6ce0a963bc1cee72ac7338b3bde4eb12d2 f01c5f6ce0a963bc1cee72ac7338b3bde4eb12d2 b0lt <jdb0lt@outlook.com> 1746542432 -0400	reset: moving to HEAD
+f01c5f6ce0a963bc1cee72ac7338b3bde4eb12d2 5e4ec8f8ad97a29920625d2729bd8435a1e63aaf b0lt <jdb0lt@outlook.com> 1746542446 -0400	commit: fixing .swp files
+5e4ec8f8ad97a29920625d2729bd8435a1e63aaf f507b090a441d87fe836ff0d8045af73f68b94df b0lt <jdb0lt@outlook.com> 1746542504 -0400	checkout: moving from master to unstable
+f507b090a441d87fe836ff0d8045af73f68b94df 508f4ad67780c4423551d195789faccd0b3ad13a b0lt <jdb0lt@outlook.com> 1746543212 -0400	commit: fixed shell again?
+508f4ad67780c4423551d195789faccd0b3ad13a 5e4ec8f8ad97a29920625d2729bd8435a1e63aaf b0lt <jdb0lt@outlook.com> 1746543335 -0400	checkout: moving from unstable to master
+5e4ec8f8ad97a29920625d2729bd8435a1e63aaf 508f4ad67780c4423551d195789faccd0b3ad13a b0lt <jdb0lt@outlook.com> 1746543593 -0400	checkout: moving from master to unstable
+508f4ad67780c4423551d195789faccd0b3ad13a 9830880d5937edc421cd76c28d1e6d56b570dd03 b0lt <jdb0lt@outlook.com> 1746543875 -0400	commit: fixed zsh ... again
+9830880d5937edc421cd76c28d1e6d56b570dd03 5e4ec8f8ad97a29920625d2729bd8435a1e63aaf b0lt <jdb0lt@outlook.com> 1746543879 -0400	checkout: moving from unstable to master
+5e4ec8f8ad97a29920625d2729bd8435a1e63aaf 5b915426715a3969678f6c296b4c0a1162d2f325 b0lt <jdb0lt@outlook.com> 1746543893 -0400	merge unstable: Merge made by the 'ort' strategy.
+5b915426715a3969678f6c296b4c0a1162d2f325 9830880d5937edc421cd76c28d1e6d56b570dd03 b0lt <jdb0lt@outlook.com> 1746544136 -0400	checkout: moving from master to unstable
+9830880d5937edc421cd76c28d1e6d56b570dd03 7efa6268cb0ef7f34aeade8c1eed53c4d829f305 b0lt <jdb0lt@outlook.com> 1746544379 -0400	commit: set shell to bottom & fixed outdated syntax for text highlighting
+7efa6268cb0ef7f34aeade8c1eed53c4d829f305 5b915426715a3969678f6c296b4c0a1162d2f325 b0lt <jdb0lt@outlook.com> 1746544382 -0400	checkout: moving from unstable to master
+5b915426715a3969678f6c296b4c0a1162d2f325 e463008d5ac7955ba716e2bd65fbbf821f83cab4 b0lt <jdb0lt@outlook.com> 1746544384 -0400	merge unstable: Merge made by the 'ort' strategy.
+e463008d5ac7955ba716e2bd65fbbf821f83cab4 7dbcace18ba01051fd80a80487b53af39864dee4 b0lt <jdb0lt@outlook.com> 1746544589 -0400	commit: git wierd
+7dbcace18ba01051fd80a80487b53af39864dee4 9d625b26e3ed4812aab37860adc2c6b8df962d2a b0lt <jdb0lt@outlook.com> 1746553021 -0400	commit: fixed a inconvience of sudo su
+9d625b26e3ed4812aab37860adc2c6b8df962d2a 8dd1c9f25f4752595bf78ce7370bacbb6bfdf805 B0ltedERROR <119495799+B0ltedERROR@users.noreply.github.com> 1746553892 -0400	commit: added sdupe
+8dd1c9f25f4752595bf78ce7370bacbb6bfdf805 7efa6268cb0ef7f34aeade8c1eed53c4d829f305 B0ltedERROR <119495799+B0ltedERROR@users.noreply.github.com> 1746555104 -0400	checkout: moving from master to unstable
+7efa6268cb0ef7f34aeade8c1eed53c4d829f305 7efa6268cb0ef7f34aeade8c1eed53c4d829f305 B0ltedERROR <119495799+B0ltedERROR@users.noreply.github.com> 1746556004 -0400	reset: moving to HEAD
+7efa6268cb0ef7f34aeade8c1eed53c4d829f305 2d54a4ce36338a87a327d44e7979bac95648eadd B0ltedERROR <119495799+B0ltedERROR@users.noreply.github.com> 1746556015 -0400	commit: fixed mason-nvim
+2d54a4ce36338a87a327d44e7979bac95648eadd f8a1ec26d3c7407a5954c8a8da120c429c087186 B0ltedERROR <119495799+B0ltedERROR@users.noreply.github.com> 1746557271 -0400	commit: added btop config to HM
+f8a1ec26d3c7407a5954c8a8da120c429c087186 f8a1ec26d3c7407a5954c8a8da120c429c087186 b0lt <jdb0lt@outlook.com> 1746557684 -0400	reset: moving to HEAD
+f8a1ec26d3c7407a5954c8a8da120c429c087186 8dd1c9f25f4752595bf78ce7370bacbb6bfdf805 b0lt <jdb0lt@outlook.com> 1746557689 -0400	checkout: moving from unstable to master
+8dd1c9f25f4752595bf78ce7370bacbb6bfdf805 f8a1ec26d3c7407a5954c8a8da120c429c087186 B0ltedERROR <119495799+B0ltedERROR@users.noreply.github.com> 1746557767 -0400	checkout: moving from master to unstable
+f8a1ec26d3c7407a5954c8a8da120c429c087186 ae6a90bd7c6e479e26e8f43a72018d77d347dfcc B0ltedERROR <119495799+B0ltedERROR@users.noreply.github.com> 1746557861 -0400	commit: this might have broken something.
+ae6a90bd7c6e479e26e8f43a72018d77d347dfcc 3ca0da121f1e418c0815a09340d51672f64cc602 B0ltedERROR <119495799+B0ltedERROR@users.noreply.github.com> 1746558165 -0400	commit: fixed btop HM config
+3ca0da121f1e418c0815a09340d51672f64cc602 d037efa8d3a784edbceaf83e8c6aa37dc615d614 B0ltedERROR <119495799+B0ltedERROR@users.noreply.github.com> 1746558892 -0400	commit: added fastfetch
+d037efa8d3a784edbceaf83e8c6aa37dc615d614 d037efa8d3a784edbceaf83e8c6aa37dc615d614 B0ltedERROR <119495799+B0ltedERROR@users.noreply.github.com> 1746560098 -0400	reset: moving to HEAD
+d037efa8d3a784edbceaf83e8c6aa37dc615d614 a346ae27a48f21fdf4b10743d56349f0f7d66e0e B0ltedERROR <119495799+B0ltedERROR@users.noreply.github.com> 1746560103 -0400	commit: added tlp
+a346ae27a48f21fdf4b10743d56349f0f7d66e0e a346ae27a48f21fdf4b10743d56349f0f7d66e0e B0ltedERROR <119495799+B0ltedERROR@users.noreply.github.com> 1746560146 -0400	reset: moving to HEAD
+a346ae27a48f21fdf4b10743d56349f0f7d66e0e 525c1d11f11750196c045885a220aa6045a1706c B0ltedERROR <119495799+B0ltedERROR@users.noreply.github.com> 1746560721 -0400	commit: changed tlp and re-added sdupe
+525c1d11f11750196c045885a220aa6045a1706c 06d5669fb1d153ec1f1e86749663bce63c72af5b B0ltedERROR <119495799+B0ltedERROR@users.noreply.github.com> 1746563033 -0400	commit: fixed sdupe again?
+06d5669fb1d153ec1f1e86749663bce63c72af5b 8dd1c9f25f4752595bf78ce7370bacbb6bfdf805 B0ltedERROR <119495799+B0ltedERROR@users.noreply.github.com> 1746564048 -0400	checkout: moving from unstable to master
+8dd1c9f25f4752595bf78ce7370bacbb6bfdf805 7203f21c77e5de46595275a61d52db37175d3733 B0ltedERROR <119495799+B0ltedERROR@users.noreply.github.com> 1746564051 -0400	commit: Squash merge unstable into master
+7203f21c77e5de46595275a61d52db37175d3733 06d5669fb1d153ec1f1e86749663bce63c72af5b B0ltedERROR <119495799+B0ltedERROR@users.noreply.github.com> 1746564058 -0400	checkout: moving from master to unstable
+06d5669fb1d153ec1f1e86749663bce63c72af5b 06d5669fb1d153ec1f1e86749663bce63c72af5b B0ltedERROR <119495799+B0ltedERROR@users.noreply.github.com> 1746564099 -0400	reset: moving to HEAD
+06d5669fb1d153ec1f1e86749663bce63c72af5b 7203f21c77e5de46595275a61d52db37175d3733 B0ltedERROR <119495799+B0ltedERROR@users.noreply.github.com> 1746564135 -0400	checkout: moving from unstable to master
+7203f21c77e5de46595275a61d52db37175d3733 06d5669fb1d153ec1f1e86749663bce63c72af5b B0ltedERROR <119495799+B0ltedERROR@users.noreply.github.com> 1746564166 -0400	checkout: moving from master to unstable
+06d5669fb1d153ec1f1e86749663bce63c72af5b 5b8b07c69a3b82f3089fc4cb61a61c2efbd6ab24 B0ltedERROR <119495799+B0ltedERROR@users.noreply.github.com> 1746713356 -0400	commit: added lanzaboote-tool for secure boot setup
+5b8b07c69a3b82f3089fc4cb61a61c2efbd6ab24 5b8b07c69a3b82f3089fc4cb61a61c2efbd6ab24 B0ltedERROR <119495799+B0ltedERROR@users.noreply.github.com> 1746725008 -0400	reset: moving to HEAD
+5b8b07c69a3b82f3089fc4cb61a61c2efbd6ab24 2ba0bd856c468ed58190cb7fbd3aeb55cb12502e B0ltedERROR <119495799+B0ltedERROR@users.noreply.github.com> 1746725023 -0400	commit: changed tmux theme
+2ba0bd856c468ed58190cb7fbd3aeb55cb12502e 7203f21c77e5de46595275a61d52db37175d3733 B0ltedERROR <119495799+B0ltedERROR@users.noreply.github.com> 1746725029 -0400	checkout: moving from unstable to master
+7203f21c77e5de46595275a61d52db37175d3733 7203f21c77e5de46595275a61d52db37175d3733 B0ltedERROR <119495799+B0ltedERROR@users.noreply.github.com> 1746725135 -0400	merge unstable: updating HEAD
+7203f21c77e5de46595275a61d52db37175d3733 7203f21c77e5de46595275a61d52db37175d3733 B0ltedERROR <119495799+B0ltedERROR@users.noreply.github.com> 1746725155 -0400	reset: moving to HEAD
+7203f21c77e5de46595275a61d52db37175d3733 1b2262071cdccac48dfa7d2f8ad8bca7d270ee3d B0ltedERROR <119495799+B0ltedERROR@users.noreply.github.com> 1746725203 -0400	commit: started process of secure boot. Changed tmux config
+1b2262071cdccac48dfa7d2f8ad8bca7d270ee3d 2ba0bd856c468ed58190cb7fbd3aeb55cb12502e B0ltedERROR <119495799+B0ltedERROR@users.noreply.github.com> 1746725212 -0400	checkout: moving from master to unstable
+2ba0bd856c468ed58190cb7fbd3aeb55cb12502e 1b2262071cdccac48dfa7d2f8ad8bca7d270ee3d B0ltedERROR <119495799+B0ltedERROR@users.noreply.github.com> 1746725231 -0400	checkout: moving from unstable to master
+1b2262071cdccac48dfa7d2f8ad8bca7d270ee3d 2ba0bd856c468ed58190cb7fbd3aeb55cb12502e B0ltedERROR <119495799+B0ltedERROR@users.noreply.github.com> 1746725241 -0400	checkout: moving from master to unstable
+2ba0bd856c468ed58190cb7fbd3aeb55cb12502e 1b2262071cdccac48dfa7d2f8ad8bca7d270ee3d B0ltedERROR <119495799+B0ltedERROR@users.noreply.github.com> 1746725242 -0400	checkout: moving from unstable to master
+1b2262071cdccac48dfa7d2f8ad8bca7d270ee3d 07eb0a0534ae700fc11ea9697f6bc541fb229bac B0ltedERROR <119495799+B0ltedERROR@users.noreply.github.com> 1746725345 -0400	commit (merge): Merge branch 'unstable'
