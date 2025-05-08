@@ -18,7 +18,7 @@ users.defaultUserShell = pkgs.zsh;
             tmuxPlugins.vim-tmux-navigator
             tmuxPlugins.resurrect
             tmuxPlugins.continuum
-            tmuxPlugins.catppuccin
+            tmuxPlugins.nord
         ];
 
         extraConfig = ''
@@ -26,6 +26,7 @@ users.defaultUserShell = pkgs.zsh;
             set -ga terminal-overrides ",*256col*:Tc"
             set -ga terminal-overrides '*:Ss=\E[%p1%d q:Se=\E[ q'
             set-environment -g COLORTERM "truecolor"
+            set -g base-index 1
             set -g prefix C-s
             unbind C-b
             bind-key C-s send-prefix

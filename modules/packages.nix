@@ -8,6 +8,10 @@
   # $ nix search wget
   environment.systemPackages = with pkgs; [
 
+  # Security
+  # sbctl
+  # lanzaboote-tool
+
 	# Command Applications
 	ripgrep
 	tmux
@@ -25,6 +29,8 @@
 	oh-my-zsh
 	eza
 	bat
+  unzip
+  fastfetch
 
 	# Visual Applications
 	kitty
@@ -41,6 +47,9 @@
 	rustup
 	gnumake
 	zig_0_12
+
+  # Services
+  tlp
 	
   ];
 	environment.variables.EDITOR = "nvim";
