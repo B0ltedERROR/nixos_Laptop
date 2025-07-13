@@ -41,5 +41,9 @@
     pkgs.catppuccin-gtk
     pkgs.papirus-folders
     pkgs.onlyoffice-desktopeditors
+
+    # Extra
+    pkgs.ciscoPacketTracer8
+
   ];
 }

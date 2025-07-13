@@ -1,6 +1,6 @@
 return {
   -- add gruvbox
-  { "savq/melange-nvim" },
+  -- { "savq/melange-nvim" },
   -- Configure LazyVim to load gruvbox
   {
  --   "LazyVim/LazyVim",

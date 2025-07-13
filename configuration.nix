@@ -12,6 +12,8 @@ in
       (import "${home-manager}/nixos")
     ];
 
+  nixpkgs.config.allowUnfree = true;
+
   home-manager.backupFileExtension = "hm-backup";
   home-manager.users.b0lt = {
     imports = [
