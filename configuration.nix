@@ -12,14 +12,14 @@ in
       (import "${home-manager}/nixos")
     ];
 
-  nixpkgs.config.allowUnfree = true;
-
   home-manager.backupFileExtension = "hm-backup";
   home-manager.users.b0lt = {
     imports = [
       ./home
     ];
   };
+
+  nixpkgs.config.allowUnfree = true;
 
   system.stateVersion = "24.11"; 
 }

@@ -43,7 +43,7 @@
     pkgs.onlyoffice-desktopeditors
 
     # Extra
-    pkgs.ciscoPacketTracer8
+    # pkgs.ciscoPacketTracer8
 
   ];
 }

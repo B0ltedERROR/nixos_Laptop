@@ -13,6 +13,7 @@
 		./packages.nix
 		./programs.nix
 		./services.nix
+    ./keyboard.nix
 		# ./theme.nix
 		./users.nix
 	];
